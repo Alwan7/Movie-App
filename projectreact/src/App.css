@@ -1,0 +1,40 @@
+/* BODY */
+
+body {
+    background: #131925;
+    color: white;
+    min-height: 100vh;
+    position: relative;
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;
+}
+
+
+/* ____________________________________________________________________________________________________ */
+
+.list-group {
+    list-style-type: none;
+}
+
+.list-group-item {
+    background: white;
+    color: black;
+}
+
+.card-text {
+    background: white;
+    color: black;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    align-content: bottom;
+    height: 2.5rem;
+}
+
+
+/* ____________________________________________________________________________________________________ */
